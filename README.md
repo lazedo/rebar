@@ -35,7 +35,7 @@ Should you want to clone the rebar repository, you will also require git.
 
 You can download a pre-built binary version of rebar from:
 
-https://github.com/rebar/rebar/wiki/rebar
+https://github.com/lazedo/rebar/wiki/rebar
 
 #### Building rebar
 
